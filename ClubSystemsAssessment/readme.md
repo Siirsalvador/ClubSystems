@@ -1,2 +1,2 @@
-Run migrations and update database
+Run migrations and update database <br/>
 Run application
